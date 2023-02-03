@@ -2,4 +2,5 @@
 **/dist/
 **/fps_cython.egg-info/
 **/models.egg-info/
+**/.idea/
 fps_cython.cpython-39-x86_64-linux-gnu.so
