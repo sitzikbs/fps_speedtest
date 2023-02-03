@@ -3,4 +3,5 @@
 **/fps_cython.egg-info/
 **/models.egg-info/
 **/.idea/
+**/__pycache__/
 fps_cython.cpython-39-x86_64-linux-gnu.so
